@@ -18,6 +18,13 @@ Duplicate entries are examined and removed to enhance the dataset's clarity and 
 
 EDA is conducted to unveil patterns and trends. It includes displaying overall statistics, identifying lengthy movies, determining the highest average voting and revenue per year, and assessing the rating's impact on revenue.
 
+![image](https://github.com/no37no37/IMDB_Movies_Dataset/assets/132648428/1e05f5db-37c3-40b5-b90d-17bbacd4c2ec)
+
+![image](https://github.com/no37no37/IMDB_Movies_Dataset/assets/132648428/ee5ce3ea-e188-41d1-87f4-ae1f8ee7eed1)
+
+![image](https://github.com/no37no37/IMDB_Movies_Dataset/assets/132648428/f0a741cf-66a6-4a1e-9609-28dad4a1f916)
+
+
 ## Top Movies Analysis
 
 The identification of the most popular movies based on revenue and highest ratings is performed. Additionally, movies are classified into categories like "Excellent," "Good," or "Average" based on their ratings.
